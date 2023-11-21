@@ -1,3 +1,6 @@
+# Output
+indices_details.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
